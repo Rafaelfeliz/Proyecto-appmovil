@@ -1,0 +1,7 @@
+{
+  "name": "CarFinder",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
